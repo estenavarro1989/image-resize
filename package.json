@@ -1,0 +1,22 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estenavarro1989/image-resize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estenavarro1989/image-resize/issues"
+  },
+  "homepage": "https://github.com/estenavarro1989/image-resize#readme",
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
